@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "3. Further Analysis and Annotation in Groups" ] },
+    "homepage": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1",
+        "type": "Text",
+        "label": { "en": [ "3. Further Analysis and Annotation in Groups" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.hrc.utexas.edu",
+        "type": "Agent",
+        "label": { "en": [ "Harry Ransom Center" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1005.0,
+        "items": [
+          {
+            "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1005.0
+                },
+                "target": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
