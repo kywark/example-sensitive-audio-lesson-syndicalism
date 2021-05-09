@@ -18,7 +18,3 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 ### 2. Decide on categories for annotation and begin generating annotations.
 Use [this template](https://docs.google.com/spreadsheets/d/1ImjhjLD1g-lQulJX3UJe4Y91z04EOriYCqiN1rz9gnw/copy#gid=0) to create annotations collaboratively with your group members. Aim to create at least 5 annotations, with at least 1 transcription and 1 descriptive annotation (the rest of the annotation types are up to the group).
-
-> <strong>Potential Student Group Work: Uploading annotations to [AudiAnnotate](http://audiannotate.brumfieldlabs.com)</strong>
->
-> Refer to [the documentation](https://hipstas.github.io/AudiAnnotate/lessonplan.html) for any questions.
