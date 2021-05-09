@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Example Sensitive Audio Lesson: John Beecher, McComb “Criminal Syndicalism” Case" ] },
+    "summary": { "en": [ "Created by Bethany Radcliff and Kylie Warkentin." ] },
+    "items": [
+    ]
+}
