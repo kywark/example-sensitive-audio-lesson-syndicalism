@@ -23,6 +23,14 @@
         "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1005.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/canvas-1/canvas/notes.json",
+            "label": "Notes"
+          }
+        ],
         "items": [
           {
             "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/canvas-1/paintings",
