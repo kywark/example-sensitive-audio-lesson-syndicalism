@@ -39,7 +39,7 @@ Access AudiAnnotate's [documentation](https://hipstas.github.io/AudiAnnotate/doc
 ### Description
 Students will understand the processes and philosophy behind audio annotations, with the possibility of presenting annotations using AudiAnnotate. Students will learn about the annotation process, and instructors will be provided with documentation on how to create an AudiAnnotate project. 
 
-<em>Note:</em> Instructors may choose to either focus lesson on thinking through the annotation process and reserve uploading annotations to AudiAnnotate themselves, or they may have students create GitHub accounts and work on presenting their annotations in a project in AudiAnnotate themselves -- this lesson plan includes both options. We have also included a potential extension activity using [Hypothesis](https://web.hypothes.is) to workshop and comment on student annotations (see["Further Analysis and Annotation in Groups”](#Hypothesis)).
+<em>Note:</em> Instructors may choose to either focus lesson on thinking through the annotation process and reserve uploading annotations to AudiAnnotate themselves, or they may have students create GitHub accounts and work on presenting their annotations in a project in AudiAnnotate themselves -- this lesson plan includes both options. We have also included a potential extension activity using [Hypothesis](https://web.hypothes.is) to workshop and comment on student annotations (see["Extension Activity: Commenting Using Hypothesis”](#Hypothesis)).
 
 ### Targeted Lesson Guidelines
 <strong>(Modified from [Guidelines for Primary Source Literacy](https://www2.archivists.org/sites/all/files/GuidelinesForPrimarySourceLiteracy-June2018.pdf))</strong>
@@ -95,8 +95,10 @@ Demonstrate historical empathy, curiosity about the past, and appreciation for h
     1. <strong>Relisten to the clip.</strong>
     2. <strong>Decide on categories for annotation and begin generating annotations.</strong>
 
-4. Brief Presentations with Instructor Evaluation (8min)
-5. Extension Activity: Commenting Using Hypothesis (10min or homework)<a name="Hypothesis"></a>
+4. Presentation (8min)
+    
+    Instructors should offer evaluative comments.
+6. Extension Activity: Commenting Using Hypothesis (10min or homework)<a name="Hypothesis"></a>
 
 ### Additional Resources<a name="Additional"></a>
 <em>Working with Sensitive Archival Material:</em>
