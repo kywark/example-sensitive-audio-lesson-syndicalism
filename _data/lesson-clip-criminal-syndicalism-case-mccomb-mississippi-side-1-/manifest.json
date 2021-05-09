@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-criminal-syndicalism-case-mccomb-mississippi-side-1-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Lesson Clip: \"'Criminal Syndicalism' Case, McComb, Mississippi (Side 1)\"" ] },
+    "homepage": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1",
+        "type": "Text",
+        "label": { "en": [ "Lesson Clip: \"'Criminal Syndicalism' Case, McComb, Mississippi (Side 1)\"" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.hrc.utexas.edu",
+        "type": "Agent",
+        "label": { "en": [ "Harry Ransom Center" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1005.0,
+        "items": [
+          {
+            "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1005.0
+                },
+                "target": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
