@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Created by Bethany Radcliff and Kylie Warkentin.
