@@ -10,5 +10,6 @@ using HTML or markdown.  Do not modify this file above this line -->
 >
 > Refer to [the documentation](https://hipstas.github.io/AudiAnnotate/lessonplan.html) for any questions.
 > 
+
 Prepare to share your annotations with your instructor and receive feedback.
 
