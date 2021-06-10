@@ -14,8 +14,8 @@ To use this project as a lesson, students will navigate to [the project page](ht
 For additional resources regarding working with sensitive audio in the classroom, see ["Additional Resources"](#Additional) at the bottom of the page.
 
 ---
-
-## Before the Lesson<a name="Before"></a>
+<a name="Before"></a>
+## Before the Lesson
 
 ### About the Audio
 In this lesson, students will be working with the ["'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1) at the [University of Texas’s Harry Ransom Center](https://www.hrc.utexas.edu). 
@@ -30,7 +30,8 @@ In this lesson, students will be working with the ["'Criminal Syndicalism' case,
 
 Be sure to provide your students with the link to the ["Lesson Clip from "'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-for-mccombs-syndicalism-case/) for students to listen to before class. You may also choose to share with students [this fully fleshed out Beecher recording project](https://kywark.github.io/beecher-syndicalism/), created by Bethany Radcliff and Kylie Warkentin.
 
-### Adding Student Work to AudiAnnotate <a name="Adding"></a>
+<a name="Adding"></a>
+### Adding Student Work to AudiAnnotate 
 Access AudiAnnotate's [documentation](https://hipstas.github.io/AudiAnnotate/documentation.html) to:
 - <strong>Create a GitHub account.</strong> You will need this to login to AudiAnnotate.
 - <strong>Create a project in AudiAnnotate.</strong> This project will host all your student groups' annotations for the Beecher "Criminal Syndicalism" recording.
@@ -38,8 +39,8 @@ Access AudiAnnotate's [documentation](https://hipstas.github.io/AudiAnnotate/doc
 - <strong>Familiarize yourself with general functions and best practices of AudiAnnotate.</strong> Depending on the skill level of your class, you may choose to have students create their own GitHub accounts to work with AudiAnnotate directly or you may upload and present group annotations by yourself. This lesson is written with the latter in mind, but can be easily adapted for students to follow the same steps in the documentation to work directly with AudiAnnotate themselves.
 
 ---
-
-## Sample Lesson Plan: Beecher Criminal Syndicalism Case, McComb, Mississippi (1 hour)<a name="Beecher"></a>
+<a name="Beecher"></a>
+## Sample Lesson Plan: Beecher Criminal Syndicalism Case, McComb, Mississippi (1 hour)
 
 ### Description
 Students will understand the processes and philosophy behind audio annotations, with the possibility of presenting annotations using AudiAnnotate. Students will learn about the annotation process, and instructors will be provided with documentation on how to create an AudiAnnotate project. 
@@ -101,8 +102,8 @@ Here, instructors should offer evaluative comments.
 <strong> [Extension Activity: Commenting Using Hypothesis (10min or homework)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/extension-activity-using-hypothesis)<a name="Hypothesis"></a></strong>
 
 ---
-
-### Additional Resources<a name="Additional"></a>
+<a name="Additional"></a>
+### Additional Resources
 <em>Working with Sensitive Archival Material:</em>
 - AudiAnnotate's [An Introduction to Annotating and Presenting Sensitive Audio Using AudiAnnotate](https://bethanycayeradcliff.github.io/sensitive-audio-lesson/), created by Bethany Radcliff and Kylie Warkentin
 - [Metadata language when working with potentially sensitive archival materials](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) (from Archives for Black Lives)
