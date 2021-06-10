@@ -20,7 +20,7 @@ For additional resources regarding working with sensitive audio in the classroom
 ### About the Audio
 In this lesson, students will be working with the ["'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1) at the [University of Texas’s Harry Ransom Center](https://www.hrc.utexas.edu). 
 
-<strong>Though this information is reproduced above [the recording]() in this project, we recommend instructor(s) share the following information about the audio with students in advance of the lesson so students may be better prepared to work with the sensitive material or express any discomfort that may prevent them from engaging with the lesson.</strong> 
+<strong>Though this information is reproduced above [the lesson clip](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-for-mccombs-syndicalism-case/#?c=&m=&s=&cv=) in this project, we recommend instructor(s) share the following information about the audio with students in advance of the lesson so students may be better prepared to work with the sensitive material or express any discomfort that may prevent them from engaging with the lesson.</strong> 
 
 <strong>Recording Description:</strong> This recording was recorded October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which it seems the students have been falsely accused of damaging property by throwing a brick. Beecher speaks with the group about the importance of voting and fighting for equal treatment in the voting process. A white arrested member of COFO discusses how his experience in jail was different than that of the Black students, how he was released without bond, and that his release was sooner. The students discuss the conditions in the jail and the treatment by policemen and guards. The parents of the students discuss how they were given limited interaction with their children, and how officers made visits a challenge.
 
@@ -100,6 +100,8 @@ How do we discuss and annotate this audio? What are some potential annotation ro
 Here, instructors should offer evaluative comments.
 
 <strong> [Extension Activity: Commenting Using Hypothesis (10min or homework)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/extension-activity-using-hypothesis)<a name="Hypothesis"></a></strong>
+
+
 
 ---
 <a name="Additional"></a>
