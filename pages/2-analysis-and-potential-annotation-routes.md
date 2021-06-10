@@ -19,16 +19,19 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 
 <strong> What is criminal syndicalism?</strong>
+
 According to John Beecher in our recording, it is a law created to arrest anyone “in the movement on just about any charge they want to and they, you know, give it a nice sounding name. They say "syndicalism." Some of us \[unclear] stumble over it \[when we couldn't?] pronounce the word. But it still basically means that anyone who tries to work for justice in our society is doing something against the law.” (circa 2:36)
 
 <strong> Who is John Beecher?</strong> 
+
 John Beecher was a descendant of the author Harriet Beecher Stowe and was a poet, civil rights activist, and journalist.
 
 <strong> What is the COFO? </strong>
+
 The Council of Federated Organizations (COFO) was first formed in 1961 to support jailed Freedom Riders. In 1962, it reorganized to an umbrella organization to avoid inter-organizational conflict and facilitate funds and encourage grassroots activism towards voter education and registration in Mississippi. In the 1960s, COFO field workers (the majority of whom were college-age Mississippians) organized many voter registration projects--as our Beecher recording captures. For more information, see the [Student Nonviolent Coordinating Committee's Page on the COFO](https://snccdigital.org/inside-sncc/alliances-relationships/cofo/).
 
 
-### 2. Relisten to the [Lesson Clip](https://kywark.github.io/example-beecher-syndicalism-lesson/lesson-clip-from-criminal-syndicalism-case-mccomb-mississippi-side-1-/#?c=&m=&s=&cv=) and Note Observations
+### 2. Relisten to the Lesson Clip and Note Observations
 
 Jot down your observations about the recording. You might notice things like: pages rustling, angry voices, whispers, clipping, English speaking, etc. Consider:
 - What do you hear?
