@@ -7,16 +7,19 @@ permalink: lesson-introduction-and-overview-instructor-
 using HTML or markdown.  Do not modify this file above this line -->
 # Lesson Introduction and Overview (Instructor)
 
-This project is an example <strong>asynchronous</strong> classroom lesson informed by AudiAnnotate's ["Presenting Sensitive Audio Using AudiAnnotate" lesson](https://hipstas.github.io/AudiAnnotate/lessonplan.html), both created by Bethany Radcliff and Kylie Warkentin. Students will work with the ["'Criminal Syndicalism' Case, McComb, Mississippi (Side 1)" recording](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1) at the [University of Texas's Harry Ransom Center](https://www.hrc.utexas.edu) throughout the course of the lesson.
+This project is an example <strong>asynchronous classroom lesson</strong> informed by AudiAnnotate's ["Presenting Sensitive Audio Using AudiAnnotate" lesson](https://hipstas.github.io/AudiAnnotate/lessonplan.html), both created by Bethany Radcliff and Kylie Warkentin. Students will work with the ["'Criminal Syndicalism' Case, McComb, Mississippi (Side 1)" recording](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1) at the [University of Texas's Harry Ransom Center](https://www.hrc.utexas.edu) throughout the course of the lesson.
 
-To use this project as a lesson, students will navigate to [the project page](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/) and, starting with "1. Considering ‘Criminal Syndicalism’ Audio," complete each step and the activities listed therein chronologically. Instructors should complete all the steps listed in the ["Before the Lesson"](#Before) and read through the full outline of the lesson below (["Beecher Criminal Syndicalism Case, McComb, Mississippi (Side 1) Educational Use Case Sample Lesson Plan (1 hour)"](#Beecher)). Though this introduction has been written with the instructor(s) in mind, each activity is written to address students directly. After students complete all the steps in this project, instructors will upload student annotations to AudiAnnotate in their own project (see ["Adding Student Work to AudiAnnotate"](#Adding) for steps on how to do so).
+To use this project as a lesson, students will navigate to [the project page](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/) and, starting with "1. Considering ‘Criminal Syndicalism’ Audio," complete each step and the activities listed therein chronologically. Instructors should complete all the steps listed in the ["Before the Lesson"](#Before) and read through the [full outline of the lesson](#Beecher) below. Though this introduction has been written with the instructor(s) in mind, each activity is written to prompt students firectly. After students complete all the steps in this project, instructors will upload student annotations to AudiAnnotate in their own project (see ["Adding Student Work to AudiAnnotate"](#Adding) for steps on how to do so).
 
 For additional resources regarding working with sensitive audio in the classroom, see ["Additional Resources"](#Additional) at the bottom of the page.
 
+---
+
 ## Before the Lesson<a name="Before"></a>
 
-### 1. About the Audio:
+### About the Audio
 In this lesson, students will be working with the ["'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1) at the [University of Texas’s Harry Ransom Center](https://www.hrc.utexas.edu). 
+
 <strong>Though this information is reproduced above [the recording]() in this project, we recommend instructor(s) share the following information about the audio with students in advance of the lesson so students may be better prepared to work with the sensitive material or express any discomfort that may prevent them from engaging with the lesson.</strong> 
 
 <strong>Recording Description:</strong> This recording was recorded October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which it seems the students have been falsely accused of damaging property by throwing a brick. Beecher speaks with the group about the importance of voting and fighting for equal treatment in the voting process. A white arrested member of COFO discusses how his experience in jail was different than that of the Black students, how he was released without bond, and that his release was sooner. The students discuss the conditions in the jail and the treatment by policemen and guards. The parents of the students discuss how they were given limited interaction with their children, and how officers made visits a challenge.
@@ -27,14 +30,16 @@ In this lesson, students will be working with the ["'Criminal Syndicalism' case,
 
 Be sure to provide your students with the link to the ["Lesson Clip from "'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://kywark.github.io/example-beecher-syndicalism-lesson/lesson-clip-from-criminal-syndicalism-case-mccomb-mississippi-side-1-/#?c=&m=&s=&cv=) for students to listen to before class. You may also choose to share with students [this fully fleshed out Beecher recording project](https://kywark.github.io/beecher-syndicalism/), created by Bethany Radcliff and Kylie Warkentin.
 
-### 2. Adding Student Work to AudiAnnotate:<a name="Adding"></a>
+### Adding Student Work to AudiAnnotate <a name="Adding"></a>
 Access AudiAnnotate's [documentation](https://hipstas.github.io/AudiAnnotate/documentation.html) to:
 - <strong>Create a GitHub account.</strong> You will need this to login to AudiAnnotate.
 - <strong>Create a project in AudiAnnotate.</strong> This project will host all your student groups' annotations for the Beecher "Criminal Syndicalism" recording.
 - <strong>Create item(s) in AudiAnnotate.</strong> We recommend you create one item per student group. 
 - <strong>Familiarize yourself with general functions and best practices of AudiAnnotate.</strong> Depending on the skill level of your class, you may choose to have students create their own GitHub accounts to work with AudiAnnotate directly or you may upload and present group annotations by yourself. This lesson is written with the latter in mind, but can be easily adapted for students to follow the same steps in the documentation to work directly with AudiAnnotate themselves.
 
-## Beecher Criminal Syndicalism Case, McComb, Mississippi (Side 1) Educational Use Case Sample Lesson Plan (1 hour)<a name="Beecher"></a>
+---
+
+## Sample Lesson Plan: Beecher Criminal Syndicalism Case, McComb, Mississippi (1 hour)<a name="Beecher"></a>
 
 ### Description
 Students will understand the processes and philosophy behind audio annotations, with the possibility of presenting annotations using AudiAnnotate. Students will learn about the annotation process, and instructors will be provided with documentation on how to create an AudiAnnotate project. 
@@ -43,7 +48,6 @@ Students will understand the processes and philosophy behind audio annotations, 
 
 ### Targeted Lesson Guidelines
 <strong>(Modified from [Guidelines for Primary Source Literacy](https://www2.archivists.org/sites/all/files/GuidelinesForPrimarySourceLiteracy-June2018.pdf))</strong>
-
 ***Interpret, Analyze, and Evaluate***
 - Critically evaluate the perspective of the creator(s) of a primary source, including tone, subjectivity, and biases, and consider how these relate to the original purpose(s) and audience(s) of the source.
 - Situate a primary source in context by applying knowledge about the time and culture in which it was created; the author or creator; its format, genre, publication history; or related materials in a collection.
@@ -53,52 +57,50 @@ Demonstrate historical empathy, curiosity about the past, and appreciation for h
 
 
 ### Lesson Goals
-<strong>Instructors will:</strong>
-- Introduce students to thinking through audio and the annotation process using primary source materials, paying special attention to working with challenging audio.
-- Discuss the context of the chosen audio and provide a content warning.
+| <strong>Instructors will:</strong> | <strong>Students will:</strong> |
+| ---------------------------------- |---------------------------------- |
+| Introduce students to thinking through audio and the annotation process using primary source materials, paying special attention to working with challenging or sensitive audio. | Discuss working with audio archival materials and creating annotations as a class.|
+| Discuss the context of the chosen audio and provide a content warning.| Break into small groups and apply what they’ve learned about using audio a by generating annotations for the Beecher clip that may then be added to AudiAnnotate project by instructor. |
 
-<strong>Students will:</strong>
-- Discuss working with audio archival materials and creating annotations as a class.
-- Break into small groups and apply what they’ve learned about using audio a by generating annotations for the Beecher clip that may then be added to AudiAnnotate project by instructor.
 
 ### Key Questions
 - How do modern researchers work with archival audio materials, particularly if they contain sensitive content still felt keenly today? 
 - How can creating and eventually presenting annotations add to researchers’ meaning making with primary source audio archival materials?
 
-### Lesson Resoures
+### Helpful Resources for Lesson
 - [Link](https://kywark.github.io/example-sensitive-audio-lesson-beecher/lesson-clip-from-criminal-syndicalism-case-mccomb-mississippi-side-1-/#?c=&m=&s=&cv=) to item marking lesson clip of Beecher recording
 - Method to record annotations (e.g., Google Sheets, Excel Spreadsheet, paper, etc.). You may choose to use [this template](https://docs.google.com/spreadsheets/u/2/d/1ImjhjLD1g-lQulJX3UJe4Y91z04EOriYCqiN1rz9gnw/copy#gid=0) provided by AudiAnnotate for creating annotations in Google Sheets.
 - (Optional) [Hypothesis](https://web.hypothes.is) account
 
-### Lesson Plan Agenda
-1. Considering ‘Criminal Syndicalism’ Audio (6min)
-    
-    <em>How do I think critically about and work with audio? Where do I listen for and make meaning in audio?</em>
-    
-    1. <strong>Content Warning.</strong> Reiterate that while we won’t be working with the section of the audio that contains the slurs, students should refer to pre-lesson materials if they decide to relisten to audio in its entirety for warnings and information regarding those moments. The audio we will work with in class today does contain troubling descriptions of racial mistreatment, but--as we’ll explore further--also more complicated, positive moments.
-    2. <strong>General experiences listening to audio. </strong> What were your experiences listening to the audio before class? Did anything surprise or interest you? What were your first impressions of the content of the recording? The recording itself?
-        
-        <em>Potential Followup Questions:</em> Did anyone have a different/similar experience? Could you make out the different voices? Did you have to relisten? How was listening to this audio different from reading it in a text? 
-    
-    3. <strong>What do you want to know more about? </strong>
+## Lesson Plan Agenda
 
-2. Analysis and Potential Annotation Routes (20min)
-    
-    <em>How do we discuss and annotate this audio? What are some potential annotation routes? (20min)</em>
+<strong>[1. Considering ‘Criminal Syndicalism’ Audio (6min)]()</strong>
 
-    1. <strong>Social/Historical Context of Recording.</strong> What is happening around this time? What is criminal syndicalism? Who is John Beecher? What is the COFO?
-    2. <strong>Relisten to the Lesson Clip and Note Observations</strong>
-    3. <strong>Consider Potential Annotation Routes</strong>
-3. Further Analysis and Annotation in Groups (8-10min) 
-    
-    <em> This would potentially be a good spot to break up this lesson into multiple days: Steps 1-2 on one day, and Step 3 on another.</em>
-    1. <strong>Relisten to the clip.</strong>
-    2. <strong>Decide on categories for annotation and begin generating annotations.</strong>
+How do I think critically about and work with audio? Where do I listen for and make meaning in audio?
+   1. Reiterate content Warning.
+   2. General experiences listening to audio.
+   3. What do you want to know more about?
 
-4. Presentation (8min)
-    
-    Instructors should offer evaluative comments.
-6. Extension Activity: Commenting Using Hypothesis (10min or homework)<a name="Hypothesis"></a>
+<strong>[2. Analysis and Potential Annotation Routes (20min)]()</strong> 
+
+How do we discuss and annotate this audio? What are some potential annotation routes?
+
+<em> If it is necessary to break the lesson up into multiple days, this activity would be a good stopping point.</em>
+   1. Social/Historical Context of Recording.
+   2. Relisten to the Lesson Clip and Note Observations.
+   3. Consider Potential Annotation Routes.
+
+<strong>[3. Further Analysis and Annotation in Groups (8-10min)]()</strong> 
+   1. Relisten to the clip.
+   2. Decide on categories for annotation and begin generating annotations.
+
+<strong>[4. Presentation (8min)]()</strong>
+
+Here, instructors should offer evaluative comments.
+
+<strong> [Extension Activity: Commenting Using Hypothesis (10min or homework)]()<a name="Hypothesis"></a></strong>
+
+---
 
 ### Additional Resources<a name="Additional"></a>
 <em>Working with Sensitive Archival Material:</em>
