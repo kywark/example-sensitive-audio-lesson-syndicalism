@@ -60,8 +60,8 @@ Demonstrate historical empathy, curiosity about the past, and appreciation for h
 ### Lesson Goals
 | <strong>Instructors will:</strong> | <strong>Students will:</strong> |
 | ---------------------------------- |---------------------------------- |
-| Introduce students to thinking through audio and the annotation process using primary source materials, paying special attention to working with challenging or sensitive audio. | Discuss working with audio archival materials and creating annotations as a class.|
-| Discuss the context of the chosen audio and provide a content warning.| Break into small groups and apply what they’ve learned about using audio a by generating annotations for the Beecher clip that may then be added to AudiAnnotate project by instructor. |
+| Introduce students to thinking through audio and the annotation process using primary source materials. | Understand the unique challenges and opportunities that accompany working with audio, particularly that of a sensitive or challenging nature.|
+| Discuss the context of the chosen audio and provide a content warning, emphasizing the challenges and opportunities that accompany working with challenging or sensitive audio.| Apply what they've learned about using audio by generating annotations for the Beecher clip, preferably in groups.|
 
 
 ### Key Questions
