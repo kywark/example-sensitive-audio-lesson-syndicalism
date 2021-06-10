@@ -16,6 +16,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 Write at least 3 sentences. Consider:
 - Did anything surprise or interest you? 
 - What were your first impressions of the content of the recording? The recording itself? 
+- Why might we ask you to listen to this audio in particular?
 
 ### 3. What do you want to know more about?
 Note at least 2 things.
