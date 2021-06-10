@@ -74,14 +74,14 @@ Demonstrate historical empathy, curiosity about the past, and appreciation for h
 
 ## Lesson Plan Agenda
 
-<strong>[1. Considering ‘Criminal Syndicalism’ Audio (6min)]()</strong>
+<strong>[1. Considering ‘Criminal Syndicalism’ Audio (6min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/1-considering-criminal-syndicalism-audio)</strong>
 
 How do I think critically about and work with audio? Where do I listen for and make meaning in audio?
    1. Reiterate content Warning.
    2. General experiences listening to audio.
    3. What do you want to know more about?
 
-<strong>[2. Analysis and Potential Annotation Routes (20min)]()</strong> 
+<strong>[2. Analysis and Potential Annotation Routes (20min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/2-analysis-and-potential-annotation-routes/)</strong> 
 
 How do we discuss and annotate this audio? What are some potential annotation routes?
 
@@ -90,15 +90,15 @@ How do we discuss and annotate this audio? What are some potential annotation ro
    2. Relisten to the Lesson Clip and Note Observations.
    3. Consider Potential Annotation Routes.
 
-<strong>[3. Further Analysis and Annotation in Groups (8-10min)]()</strong> 
+<strong>[3. Further Analysis and Annotation in Groups (8-10min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/)</strong> 
    1. Relisten to the clip.
    2. Decide on categories for annotation and begin generating annotations.
 
-<strong>[4. Presentation (8min)]()</strong>
+<strong>[4. Presentation (8min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/4-presentation)</strong>
 
 Here, instructors should offer evaluative comments.
 
-<strong> [Extension Activity: Commenting Using Hypothesis (10min or homework)]()<a name="Hypothesis"></a></strong>
+<strong> [Extension Activity: Commenting Using Hypothesis (10min or homework)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/extension-activity-using-hypothesis)<a name="Hypothesis"></a></strong>
 
 ---
 
