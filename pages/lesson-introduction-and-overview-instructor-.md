@@ -46,7 +46,7 @@ Access AudiAnnotate's [documentation](https://hipstas.github.io/AudiAnnotate/doc
 Students will understand the processes and philosophy behind audio annotations, with the possibility of presenting annotations using AudiAnnotate. Students will learn about the annotation process, and instructors will be provided with documentation on how to create an AudiAnnotate project. 
 
 <em>Note:</em> Instructors may choose to either focus lesson on thinking through the annotation process and reserve uploading annotations to AudiAnnotate themselves, or they may have students create GitHub accounts and work on presenting their annotations in a project in AudiAnnotate themselves -- this lesson plan includes both options. We have also included a potential extension activity using [Hypothesis](https://web.hypothes.is) to workshop and comment on student annotations (see"Extension Activity: Commenting Using Hypothesis”).
-
+<br>
 ### Targeted Lesson Guidelines
 <strong>(Modified from [Guidelines for Primary Source Literacy](https://www2.archivists.org/sites/all/files/GuidelinesForPrimarySourceLiteracy-June2018.pdf))</strong>
 ***Interpret, Analyze, and Evaluate***
@@ -59,7 +59,7 @@ Demonstrate historical empathy, curiosity about the past, and appreciation for h
 
 ### Lesson Goals
 | <strong>Instructors will:</strong> | <strong>Students will:</strong> |
-| ---------------------------------- |---------------------------------- |
+| ---------------------------------- | ---------------------------------- |
 | Introduce students to thinking through audio and the annotation process using primary source materials. | Understand the unique challenges and opportunities that accompany working with audio, particularly that of a sensitive or challenging nature.|
 | Discuss the context of the chosen audio and provide a content warning, emphasizing the challenges and opportunities that accompany working with challenging or sensitive audio.| Apply what they've learned about using audio by generating annotations for the Beecher clip, preferably in groups.|
 
