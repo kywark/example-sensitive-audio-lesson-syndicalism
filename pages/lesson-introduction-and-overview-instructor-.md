@@ -74,7 +74,6 @@ Demonstrate historical empathy, curiosity about the past, and appreciation for h
 - (Optional) [Hypothesis](https://web.hypothes.is) account
 
 ## Lesson Plan Agenda
-
 <strong>[1. Considering ‘Criminal Syndicalism’ Audio (6min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/1-considering-criminal-syndicalism-audio)</strong>
 
 How do I think critically about and work with audio? Where do I listen for and make meaning in audio?
