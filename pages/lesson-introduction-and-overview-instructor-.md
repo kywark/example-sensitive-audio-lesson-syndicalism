@@ -45,7 +45,7 @@ Access AudiAnnotate's [documentation](https://hipstas.github.io/AudiAnnotate/doc
 ### Description
 Students will understand the processes and philosophy behind audio annotations, with the possibility of presenting annotations using AudiAnnotate. Students will learn about the annotation process, and instructors will be provided with documentation on how to create an AudiAnnotate project. 
 
-<em>Note:</em> Instructors may choose to either focus lesson on thinking through the annotation process and reserve uploading annotations to AudiAnnotate themselves, or they may have students create GitHub accounts and work on presenting their annotations in a project in AudiAnnotate themselves -- this lesson plan includes both options. We have also included a potential extension activity using [Hypothesis](https://web.hypothes.is) to workshop and comment on student annotations (see["Extension Activity: Commenting Using Hypothesis”](#Hypothesis)).
+<em>Note:</em> Instructors may choose to either focus lesson on thinking through the annotation process and reserve uploading annotations to AudiAnnotate themselves, or they may have students create GitHub accounts and work on presenting their annotations in a project in AudiAnnotate themselves -- this lesson plan includes both options. We have also included a potential extension activity using [Hypothesis](https://web.hypothes.is) to workshop and comment on student annotations (see"Extension Activity: Commenting Using Hypothesis”).
 
 ### Targeted Lesson Guidelines
 <strong>(Modified from [Guidelines for Primary Source Literacy](https://www2.archivists.org/sites/all/files/GuidelinesForPrimarySourceLiteracy-June2018.pdf))</strong>
@@ -99,7 +99,7 @@ How do we discuss and annotate this audio? What are some potential annotation ro
 
 Here, instructors should offer evaluative comments.
 
-<strong> [Extension Activity: Commenting Using Hypothesis (10min or homework)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/extension-activity-using-hypothesis)<a name="Hypothesis"></a></strong>
+<strong> [Extension Activity: Commenting Using Hypothesis (10min or homework)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/extension-activity-using-hypothesis)</strong>
 
 
 
