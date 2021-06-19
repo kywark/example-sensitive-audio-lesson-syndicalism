@@ -61,6 +61,7 @@ Demonstrate historical empathy, curiosity about the past, and appreciation for h
 **Instructors will:** | **Students will:**
 ---------------------------------- | ----------------------------------
 Introduce students to thinking through audio and the annotation process using primary source materials. | Understand the unique challenges and opportunities that accompany working with audio, particularly that of a sensitive or challenging nature.
+
 Discuss the context of the chosen audio and provide a content warning, emphasizing the challenges and opportunities that accompany working with challenging or sensitive audio.| Apply what they've learned about using audio by generating annotations for the Beecher clip, preferably in groups.
 
 
