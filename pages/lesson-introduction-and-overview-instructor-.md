@@ -18,15 +18,15 @@ For additional resources regarding working with sensitive audio in the classroom
 ## Before the Lesson
 
 ### About the Audio
-In this lesson, students will be working with the ["'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1) at the [University of Texas’s Harry Ransom Center](https://www.hrc.utexas.edu). 
+In this lesson, students will be working with the ["'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1) at the [University of Texas’s Harry Ransom Center](https://www.hrc.utexas.edu).
 
-<strong>Though this information is reproduced above [the lesson clip](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-for-mccombs-syndicalism-case/#?c=&m=&s=&cv=) in this project, we recommend instructor(s) share the following information about the audio with students in advance of the lesson so students may be better prepared to work with the sensitive material or express any discomfort that may prevent them from engaging with the lesson.</strong> 
+**Though this information is reproduced above the [lesson clip](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-for-mccombs-syndicalism-case/#?c=&m=&s=&cv=) in this project, we recommend instructor(s) share the following information about the audio with students in advance of the lesson so students may be better prepared to work with the sensitive material or express any discomfort that may prevent them from engaging with the lesson.**
 
-<strong>Recording Description:</strong> This recording was recorded October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which it seems the students have been falsely accused of damaging property by throwing a brick. Beecher speaks with the group about the importance of voting and fighting for equal treatment in the voting process. A white arrested member of COFO discusses how his experience in jail was different than that of the Black students, how he was released without bond, and that his release was sooner. The students discuss the conditions in the jail and the treatment by policemen and guards. The parents of the students discuss how they were given limited interaction with their children, and how officers made visits a challenge.
+**Recording Description:** This recording was recorded October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which it seems the students have been falsely accused of damaging property by throwing a brick. Beecher speaks with the group about the importance of voting and fighting for equal treatment in the voting process. A white arrested member of COFO discusses how his experience in jail was different than that of the Black students, how he was released without bond, and that his release was sooner. The students discuss the conditions in the jail and the treatment by policemen and guards. The parents of the students discuss how they were given limited interaction with their children, and how officers made visits a challenge.
 
-<strong>Description of Clip Used in Lesson:</strong> The clip we will discuss in class is 14:07-15:37. In this portion of the recording, Beecher asks the students if they had recreational privileges while in jail, to which the students reply they could not even leave the cell. Beecher asks about food given to them in prison, which the students say was often cold pork and beans from the can, and that they were denied coffee, and given a small breakfast. The students also discuss how the guards/officers were dismissive of their singing and would threaten to drag their mattresses out and make the students sleep on the concrete if they continued sleeping.
+**Description of Clip Used in Lesson:** The clip we will discuss in class is 14:07-15:37. In this portion of the recording, Beecher asks the students if they had recreational privileges while in jail, to which the students reply they could not even leave the cell. Beecher asks about food given to them in prison, which the students say was often cold pork and beans from the can, and that they were denied coffee, and given a small breakfast. The students also discuss how the guards/officers were dismissive of their singing and would threaten to drag their mattresses out and make the students sleep on the concrete if they continued sleeping.
 
-<strong>Audio Content Warning:</strong> In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting white police officers. Listening to the second side of the recording is not necessary for this lesson and will not be discussed in this lesson, but as a warning, it includes multiple racial slurs, at 4:58, said by a white man; at 5:48 by a man quoting a police officer; at 7:00, 7:04, 7:08, 7:09, by a woman quoting a police officer; at 9:15 by a man quoting a police officer; at 11:42, 11:57, and 12:32  by a woman quoting a police officer. Explicit language is also used by a woman quoting a police officer at 10:48.
+**Audio Content Warning:** In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting white police officers. Listening to the second side of the recording is not necessary for this lesson and will not be discussed in this lesson, but as a warning, it includes multiple racial slurs, at 4:58, said by a white man; at 5:48 by a man quoting a police officer; at 7:00, 7:04, 7:08, 7:09, by a woman quoting a police officer; at 9:15 by a man quoting a police officer; at 11:42, 11:57, and 12:32  by a woman quoting a police officer. Explicit language is also used by a woman quoting a police officer at 10:48.
 
 Be sure to provide your students with the link to the ["Lesson Clip from "'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-for-mccombs-syndicalism-case/) for students to listen to before class. You may also choose to share with students [this fully fleshed out Beecher recording project](https://kywark.github.io/beecher-syndicalism/), created by Bethany Radcliff and Kylie Warkentin.
 
@@ -45,10 +45,10 @@ Access AudiAnnotate's [documentation](https://hipstas.github.io/AudiAnnotate/doc
 ### Description
 Students will understand the processes and philosophy behind audio annotations, with the possibility of presenting annotations using AudiAnnotate. Students will learn about the annotation process, and instructors will be provided with documentation on how to create an AudiAnnotate project. 
 
-<em>Note:</em> Instructors may choose to either focus lesson on thinking through the annotation process and reserve uploading annotations to AudiAnnotate themselves, or they may have students create GitHub accounts and work on presenting their annotations in a project in AudiAnnotate themselves -- this lesson plan includes both options. We have also included a potential extension activity using [Hypothesis](https://web.hypothes.is) to workshop and comment on student annotations (see"Extension Activity: Commenting Using Hypothesis”).
+<em>Note:</em> Instructors may choose to either focus lesson on thinking through the annotation process and reserve uploading annotations to AudiAnnotate themselves, or they may have students create GitHub accounts and work on presenting their annotations in a project in AudiAnnotate themselves -- this lesson plan includes both options. We have also included a potential extension activity using [Hypothesis](https://web.hypothes.is) to workshop and comment on student annotations (see "Extension Activity: Commenting Using Hypothesis”).
 <br>
 ### Targeted Lesson Guidelines
-<strong>(Modified from [Guidelines for Primary Source Literacy](https://www2.archivists.org/sites/all/files/GuidelinesForPrimarySourceLiteracy-June2018.pdf))</strong>
+**(Modified from [Guidelines for Primary Source Literacy](https://www2.archivists.org/sites/all/files/GuidelinesForPrimarySourceLiteracy-June2018.pdf))**
 ***Interpret, Analyze, and Evaluate***
 - Critically evaluate the perspective of the creator(s) of a primary source, including tone, subjectivity, and biases, and consider how these relate to the original purpose(s) and audience(s) of the source.
 - Situate a primary source in context by applying knowledge about the time and culture in which it was created; the author or creator; its format, genre, publication history; or related materials in a collection.
@@ -74,14 +74,14 @@ Demonstrate historical empathy, curiosity about the past, and appreciation for h
 - (Optional) [Hypothesis](https://web.hypothes.is) account
 
 ## Lesson Plan Agenda
-<strong>[1. Considering ‘Criminal Syndicalism’ Audio (6min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/1-considering-criminal-syndicalism-audio)</strong>
+**[1. Considering ‘Criminal Syndicalism’ Audio (6min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/1-considering-criminal-syndicalism-audio)**
 
 How do I think critically about and work with audio? Where do I listen for and make meaning in audio?
    1. Reiterate content Warning.
    2. General experiences listening to audio.
    3. What do you want to know more about?
 
-<strong>[2. Analysis and Potential Annotation Routes (20min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/2-analysis-and-potential-annotation-routes/)</strong> 
+**[2. Analysis and Potential Annotation Routes (20min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/2-analysis-and-potential-annotation-routes/)**
 
 How do we discuss and annotate this audio? What are some potential annotation routes?
 
@@ -90,15 +90,15 @@ How do we discuss and annotate this audio? What are some potential annotation ro
    2. Relisten to the Lesson Clip and Note Observations.
    3. Consider Potential Annotation Routes.
 
-<strong>[3. Further Analysis and Annotation in Groups (8-10min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/)</strong> 
+**[3. Further Analysis and Annotation in Groups (8-10min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/3-further-analysis-and-annotation-in-groups/)**
    1. Relisten to the clip.
    2. Decide on categories for annotation and begin generating annotations.
 
-<strong>[4. Presentation (8min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/4-presentation)</strong>
+**[4. Presentation (8min)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/4-presentation)**
 
 Here, instructors should offer evaluative comments.
 
-<strong> [Extension Activity: Commenting Using Hypothesis (10min or homework)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/extension-activity-using-hypothesis)</strong>
+**[Extension Activity: Commenting Using Hypothesis (10min or homework)](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/extension-activity-using-hypothesis)**
 
 
 
