@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-clip-criminal-syndicalism-case-mccomb-mississippi-side-1-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Lesson Clip-- \Criminal Syndicalism Case, McComb, Mississippi (Side 1)\"" ] },
+    "label": { "en": [ "Lesson Clip: \"'Criminal Syndicalism Case, McComb, Mississippi (Side 1)\"" ] },
     "homepage": [
       {
         "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1",
         "type": "Text",
-        "label": { "en": [ "Lesson Clip-- \Criminal Syndicalism Case, McComb, Mississippi (Side 1)\"" ] },
+        "label": { "en": [ "Lesson Clip: \"'Criminal Syndicalism Case, McComb, Mississippi (Side 1)\"" ] },
         "format": "text/html"
       }
     ],
