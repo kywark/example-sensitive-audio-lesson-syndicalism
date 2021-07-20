@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Lesson Clip: &quot;&#39;Criminal Syndicalism&#39; Case, McComb, Mississippi (Side 1)&quot;
+title: Lesson Clip: Criminal Syndicalism Case, McComb, Mississippi (Side 1)&quot;
 manifest_name: lesson-clip-criminal-syndicalism-case-mccomb-mississippi-side-1-
 permalink: lesson-clip-criminal-syndicalism-case-mccomb-mississippi-side-1-/
 external_manifest_url: 
