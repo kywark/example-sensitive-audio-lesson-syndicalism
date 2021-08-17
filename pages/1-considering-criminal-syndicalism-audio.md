@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1. Considering ‘Criminal Syndicalism’ Audio
+title: 1. Considering Experiences with ‘Criminal Syndicalism’ Audio
 permalink: 1-considering-criminal-syndicalism-audio
 ---
 <!-- Add an essay or interpretive material below this line,
