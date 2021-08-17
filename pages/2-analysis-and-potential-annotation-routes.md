@@ -7,6 +7,8 @@ external_manifest_url:
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
+Now, let's look more closely at the "Criminal Syndicalism" audio.
+
 ### 1. Social/Historical Context of Recording 
 <strong>N.B.:</strong> This information is presented as if the student were going through each item asynchronously, without any instructor assistance. Should this lesson be delivered synchronously, this section could also be turned into a mini-lecture.
 
