@@ -13,5 +13,5 @@ Write at least 3 sentences. Consider:
 - What were your first impressions of the content of the recording? The recording itself? 
 - Why might we ask you to listen to this audio in particular?
 
-### 3. What do you want to know more about?
+### 2. What do you want to know more about?
 Note at least 2 things.
