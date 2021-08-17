@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Lesson Clip for McCombs &quot;Syndicalism&quot; Case
+title: Lesson Clip for McCombs Syndicalism Case
 manifest_name: lesson-clip-for-mccombs-syndicalism-case
 permalink: lesson-clip-for-mccombs-syndicalism-case/
 external_manifest_url: 
