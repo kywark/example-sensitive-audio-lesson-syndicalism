@@ -7,6 +7,8 @@ permalink: 1-considering-criminal-syndicalism-audio
 using HTML or markdown.  Do not modify this file above this line -->
 ## 1. How do I think critically about and work with audio? Where do I listen for and make meaning in audio?
 
+Reflect on your experiences listening to the audio before class, then ask yourself the following questions.
+
 ### 1. What were your experiences listening to the audio before class? 
 Write at least 3 sentences. Consider:
 - Did anything surprise or interest you? 
